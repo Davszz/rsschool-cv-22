@@ -1,21 +1,21 @@
 ## David Beglaryan
 ***
-## Contacs
+## Contacs:
 * **Discord**: davszz (in the group rs school)
 * **Email**: bdvsu@yandex.ru
 * **GitHub**: Davszz
 ***
-## About me
+## About me:
 
 ***
-## Skills
+## Skills:
 - HTML / CSS
 - JS ( in the process )
 - Figma
 - Adobe Photoshop
 
 ***
-## Code Example
+## Code Example:
 ```
 let example = [1, 3, -32, -56, 16];
 
