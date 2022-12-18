@@ -146,7 +146,6 @@ span {
   color: rgb(238, 135, 9);
 }
 
-.aboutText,
 .educationText,
 .codeText,
 .languageText {
@@ -156,6 +155,15 @@ span {
   color: black;
   font-size: 16px;
 }
+
+.aboutText {
+  text-align: justify;
+  padding: 10px;
+  margin: 0px 20px 5px 0px;
+  color: black;
+  font-size: 16px;
+}
+
 
 .skillsText,
 .educationText,
