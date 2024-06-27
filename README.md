@@ -1,4 +1,4 @@
-# rsschool-cv
+# rsschool-cv1
 
 https://davszz.github.io/rsschool-cv/ 
 ***
