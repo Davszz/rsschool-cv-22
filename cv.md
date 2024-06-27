@@ -1,5 +1,4 @@
 # David Beglaryan
-## David Beglaryan
 ***
 ## Contacs:
 * **Discord**: davszz (in the group rs school)
